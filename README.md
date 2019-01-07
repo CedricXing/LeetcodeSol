@@ -1,6 +1,6 @@
 # LeetcodeSol
 
-Give Solutions by top hits.
+### Give Solutions by top hits.
 
 | # | Top 100 Liked Questions | Solution | Difficulty |
 |---| ----------------------- | -------- | ---------- |
