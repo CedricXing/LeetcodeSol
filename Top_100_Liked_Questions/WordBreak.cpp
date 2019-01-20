@@ -33,6 +33,10 @@ public:
 
     /* Sol 1
     * Standard DP solution.
+    * Attention!!!
+    * string.length() returns an unsigned int value,
+    * so i - word.length() becomes unsigned value type.
+    * It's always non-negative.So change i - word.length() to i >= word.length() when checking.
     */
     bool wordBreakDP(string s, vector<string>& wordDict){
         int *arr = new int[s.length()+1];
