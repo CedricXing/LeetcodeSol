@@ -12,3 +12,5 @@
 |105|[Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](./Top_100_Liked_Questions/ConstructBinaryTreeFromPreorderAndInorder.cpp)|Medium|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](./Top_100_Liked_Questions/FlattenBinaryTreeToLinkedList.cpp)|Medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[C++](./Top_100_Liked_Questions/WordBreak.cpp)|Medium|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./Top_100_Liked_Questions/LinkedListCycle.cpp)|Easy|
+|142|[Linked List Cycle2](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](./Top_100_Liked_Questions/LinkedListCycle2.cpp)|Medium|
