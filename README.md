@@ -17,3 +17,4 @@
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[C++](./Top_100_Liked_Questions/SortList.cpp)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](./Top_100_Liked_Questions/MaximumProductSubarray.cpp)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C++](./Top_100_Liked_Questions/MinStack.cpp)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](./Top_100_Liked_Questions/IntersectionOfTwoLinkedLists.cpp)|Easy|
