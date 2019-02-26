@@ -20,3 +20,4 @@
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](./Top_100_Liked_Questions/IntersectionOfTwoLinkedLists.cpp)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./Top_100_Liked_Questions/MajorityElement.cpp)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](./Top_100_Liked_Questions/HouseRobber.cpp)|Easy|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./Top_100_Liked_Questions/NumberOfIslands.cpp)|Medium|
