@@ -4,15 +4,13 @@ using namespace std;
 class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
-        findKthLargest(nums,0,nums.size()-1,k-1);
+        return findKthLargest(nums,0,nums.size()-1,k);
     }
 
     int findKthLargest(vector<int>& nums,int left,int right,int k){
-        if(left==right)
-            return nums[left];
         int pivot = nums[left];
         int j = left;
-        for(int i = left;i <= right;++i){
+        for(int i = left+1;i <= right;++i){
             if(nums[i] <= pivot){
                 ++j;
                 int temp = nums[i];
@@ -22,10 +20,10 @@ public:
         }
         nums[left] = nums[j];
         nums[j] = pivot;
-        if(k < right-j+1)
+        if(j == (nums.size()-k))
+            return nums[j];
+        else if(j < (nums.size()-k))
             return findKthLargest(nums,j+1,right,k);
-        else{
-            return findKthLargest(nums,left,j,k-right+j-1);
-        }
+        else return findKthLargest(nums,left,j-1,k);
     }
 };
