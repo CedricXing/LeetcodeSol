@@ -8,8 +8,8 @@ public:
     * Brute Force
     */
     int maximalSquare(vector<vector<char>>& matrix) {
+        if(matrix.empty())  return 0;
         int m = matrix.size();
-        if(m <= 0)  return 0;
         int n = matrix[0].size();
         int maxLen = (m<n)?m:n;
         while(maxLen >= 1){
@@ -48,11 +48,11 @@ public:
    int maximalSquare1(vector<vector<char>>& matrix) {
        if(matrix.empty()) return 0;
        int upper_left = 0, maxSize = 0;
-       vector<int> vec(matrix.size(),0);
+       vector<int> vec(matrix[0].size(),0);
        for(int i = 0;i < matrix.size();++i){
            for(int j = 0;j < matrix[0].size();++j){
                int temp = vec[j];
-               if(i == '0' || j == '0' || matrix[i][j] == '0')
+               if(i == 0 || j == 0 || matrix[i][j] == '0')
                     vec[j] = matrix[i][j] - '0';
                 else{
                     vec[j] = min(upper_left,min(vec[j],vec[j-1])) + 1;
@@ -61,5 +61,6 @@ public:
                 maxSize = max(maxSize,vec[j]);
            }
        }
+       return maxSize * maxSize;
    }
 };
