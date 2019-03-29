@@ -26,3 +26,4 @@
 |208|[Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](./Top_100_Liked_Questions/ImplementTrie.cpp)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](./Top_100_Liked_Questions/KthLargestElement.cpp)|Medium|
 |221|[Maximum Square](https://leetcode.com/problems/maximal-square/)|[C++](./Top_100_Liked_Questions/MaximumSquare.cpp)|Medium|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./Top_100_Liked_Question/InvertBinaryTree.cpp)|Easy|
