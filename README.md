@@ -2,6 +2,8 @@
 
 ### Give Solutions by top hits.
 
+######The data was updated on 01/03/2019 and spider code is [here](leetcode_spider.py).
+
 | # | Top 100 Liked Questions | Solution | Difficulty |Likes|
 |---| ----------------------- | -------- | ---------- |-----|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./Top_100_Liked_Questions/TwoSum.cpp)|Easy|10278|
@@ -14,7 +16,7 @@
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./Top_100_Liked_Questions/TrappingRainWater.cpp)|Hard|3226|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](./Top_100_Liked_Questions/ContainerWithMostWater.cpp)|Medium|2941|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./Top_100_Liked_Questions/ValidParenthese.cpp)|Easy|2710|
-|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|C++|Hard|2621|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](./Top_100_Liked_Questions/LRUCache.cpp)|Hard|2621|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|C++|Medium|2514|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|C++|Hard|2390|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|C++|Easy|2358|
