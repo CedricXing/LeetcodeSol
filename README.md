@@ -2,7 +2,7 @@
 
 ### Give Solutions by top hits.
 
-######The data was updated on 01/03/2019 and spider code is [here](leetcode_spider.py).
+#####The data was updated on 01/03/2019 and the spider code is [here](leetcode_spider.py).
 
 | # | Top 100 Liked Questions | Solution | Difficulty |Likes|
 |---| ----------------------- | -------- | ---------- |-----|
