@@ -17,8 +17,8 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](./Top_100_Liked_Questions/ContainerWithMostWater.cpp)|Medium|2941|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./Top_100_Liked_Questions/ValidParenthese.cpp)|Easy|2710|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](./Top_100_Liked_Questions/LRUCache.cpp)|Hard|2621|
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|C++|Medium|2514|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|C++|Hard|2390|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./Top_100_Liked_Questions/GenerateParentheses.cpp)|Medium|2514|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](./Top_100_Liked_Questions/RegularExpressionMatching.cpp)|Hard|2390|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|C++|Easy|2358|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./Top_100_Liked_Questions/NumberOfIslands.cpp)|Medium|2339|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](./Top_100_Liked_Questions/HouseRobber.cpp)|Easy|2305|
