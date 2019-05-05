@@ -19,10 +19,10 @@
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](./Top_100_Liked_Questions/LRUCache.cpp)|Hard|2621|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./Top_100_Liked_Questions/GenerateParentheses.cpp)|Medium|2514|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](./Top_100_Liked_Questions/RegularExpressionMatching.cpp)|Hard|2390|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|C++|Easy|2358|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./Top_100_Liked_Questions/BestTimetoBuyandSellStock.cpp)|Easy|2358|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./Top_100_Liked_Questions/NumberOfIslands.cpp)|Medium|2339|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](./Top_100_Liked_Questions/HouseRobber.cpp)|Easy|2305|
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|C++|Medium|2278|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](./Top_100_Liked_Questions/LongestIncreasingSubsequence.cpp)|Medium|2278|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|C++|Hard|2243|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|C++|Medium|2236|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|C++|Easy|2226|
