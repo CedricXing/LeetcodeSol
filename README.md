@@ -23,13 +23,13 @@
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./Top_100_Liked_Questions/NumberOfIslands.cpp)|Medium|2339|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](./Top_100_Liked_Questions/HouseRobber.cpp)|Easy|2305|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](./Top_100_Liked_Questions/LongestIncreasingSubsequence.cpp)|Medium|2278|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|C++|Hard|2243|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](./Top_100_Liked_Questions/MergekSortedLists.cpp)|Hard|2243|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|C++|Medium|2236|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|C++|Easy|2226|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|C++|Medium|2147|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./Top_100_Liked_Questions/ReverseLinkedList.cpp)|Easy|2119|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|C++|Hard|2068|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|C++|Easy|2061|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./Top_100_Liked_Questions/MergeTwoSortedLists.cpp)|Easy|2061|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|C++|Medium|2041|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](./Top_100_Liked_Questions/SymmetricTree.cpp)|Easy|2040|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|C++|Easy|2025|
