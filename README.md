@@ -24,9 +24,9 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](./Top_100_Liked_Questions/HouseRobber.cpp)|Easy|2305|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](./Top_100_Liked_Questions/LongestIncreasingSubsequence.cpp)|Medium|2278|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](./Top_100_Liked_Questions/MergekSortedLists.cpp)|Hard|2243|
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|C++|Medium|2236|
-|136|[Single Number](https://leetcode.com/problems/single-number/)|C++|Easy|2226|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|C++|Medium|2147|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./Top_100_Liked_Questions/FindtheDuplicateNumber.cpp)|Medium|2236|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](./Top_100_Liked_Questions/SingleNumber.cpp)|Easy|2226|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](SearchinRotatedSortedArray.cpp)|Medium|2147|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./Top_100_Liked_Questions/ReverseLinkedList.cpp)|Easy|2119|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|C++|Hard|2068|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./Top_100_Liked_Questions/MergeTwoSortedLists.cpp)|Easy|2061|
