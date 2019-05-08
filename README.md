@@ -1,4 +1,5 @@
-# LeetcodeSol ![leetcode](https://img.shields.io/badge/CedricXing-Leetcode-orange.svg)
+# LeetcodeSol 
+![leetcode](https://img.shields.io/badge/CedricXing-Leetcode-orange.svg) ![language](https://img.shields.io/badge/Language-C%2B%2B%2011-yellow.svg) ![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 ### Give Solutions by top hits.
 
