@@ -1,4 +1,4 @@
-# LeetcodeSol
+# LeetcodeSol ![leetcode](https://img.shields.io/badge/CedricXing-Leetcode-orange.svg)
 
 ### Give Solutions by top hits.
 
