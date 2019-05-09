@@ -31,9 +31,9 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./Top_100_Liked_Questions/ReverseLinkedList.cpp)|Easy|2119|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./Top_100_Liked_Questions/MinimumWindowSubstring.cpp)|Hard|2068|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./Top_100_Liked_Questions/MergeTwoSortedLists.cpp)|Easy|2061|
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|C++|Medium|2041|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./Top_100_Liked_Questions/ProductofArrayExceptSelf.cpp)|Medium|2041|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](./Top_100_Liked_Questions/SymmetricTree.cpp)|Easy|2040|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|C++|Easy|2025|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./Top_100_Liked_Questions/ReverseInteger.cpp)|Easy|2025|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[C++](./Top_100_Liked_Questions/WordBreak.cpp)|Medium|1988|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|C++|Medium|1982|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|C++|Easy|1967|
