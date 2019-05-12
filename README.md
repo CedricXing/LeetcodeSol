@@ -39,8 +39,8 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./Top_100_Liked_Questions/ClimbingStairs.cpp)|Easy|1967|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](./Top_100_Liked_Questions/IntersectionOfTwoLinkedLists.cpp)|Easy|1944|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](./Top_100_Liked_Questions/MaximumProductSubarray.cpp)|Medium|1889|
-|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|C++|Hard|1882|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|C++|Easy|1868|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](./Top_100_Liked_Questions/EditDistance.cpp)|Hard|1882|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./Top_100_Liked_Questions/MoveZeroes.cpp)|Easy|1868|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|C++|Medium|1842|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](./Top_100_Liked_Questions/KthLargestElement.cpp)|Medium|1830|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|C++|Medium|1785|
