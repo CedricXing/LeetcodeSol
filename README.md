@@ -35,8 +35,8 @@
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](./Top_100_Liked_Questions/SymmetricTree.cpp)|Easy|2040|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./Top_100_Liked_Questions/ReverseInteger.cpp)|Easy|2025|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[C++](./Top_100_Liked_Questions/WordBreak.cpp)|Medium|1988|
-|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|C++|Medium|1982|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|C++|Easy|1967|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](./Top_100_Liked_Questions/LetterCombinationsofaPhoneNumber.cpp)|Medium|1982|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./Top_100_Liked_Questions/ClimbingStairs.cpp)|Easy|1967|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](./Top_100_Liked_Questions/IntersectionOfTwoLinkedLists.cpp)|Easy|1944|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](./Top_100_Liked_Questions/MaximumProductSubarray.cpp)|Medium|1889|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|C++|Hard|1882|
