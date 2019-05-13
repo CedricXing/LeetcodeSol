@@ -41,10 +41,10 @@
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](./Top_100_Liked_Questions/MaximumProductSubarray.cpp)|Medium|1889|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](./Top_100_Liked_Questions/EditDistance.cpp)|Hard|1882|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./Top_100_Liked_Questions/MoveZeroes.cpp)|Easy|1868|
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|C++|Medium|1842|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./Top_100_Liked_Questions/MergeIntervals.cpp)|Medium|1842|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](./Top_100_Liked_Questions/KthLargestElement.cpp)|Medium|1830|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|C++|Medium|1785|
-|46|[Permutations](https://leetcode.com/problems/permutations/)|C++|Medium|1784|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./Top_100_Liked_Questions/CombinationSum.cpp)|Medium|1785|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[C++](./Top_100_Liked_Questions/Permutations.cpp)|Medium|1784|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|C++|Medium|1759|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|C++|Medium|1741|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|C++|Hard|1740|
