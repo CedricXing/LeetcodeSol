@@ -45,9 +45,9 @@
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](./Top_100_Liked_Questions/KthLargestElement.cpp)|Medium|1830|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./Top_100_Liked_Questions/CombinationSum.cpp)|Medium|1785|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[C++](./Top_100_Liked_Questions/Permutations.cpp)|Medium|1784|
-|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|C++|Medium|1759|
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|C++|Medium|1741|
-|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|C++|Hard|1740|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./Top_100_Liked_Questions/SubarraySumEqualsK.cpp)|Medium|1759|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./Top_100_Liked_Questions/ValidateBinarySearchTree.cpp)|Medium|1741|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./Top_100_Liked_Questions/LargestRectangleinHistogram.cpp)|Hard|1740|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|C++|Medium|1731|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|C++|Medium|1727|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|C++|Medium|1716|
