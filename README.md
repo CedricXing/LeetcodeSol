@@ -48,9 +48,9 @@
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./Top_100_Liked_Questions/SubarraySumEqualsK.cpp)|Medium|1759|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./Top_100_Liked_Questions/ValidateBinarySearchTree.cpp)|Medium|1741|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./Top_100_Liked_Questions/LargestRectangleinHistogram.cpp)|Hard|1740|
-|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|C++|Medium|1731|
-|78|[Subsets](https://leetcode.com/problems/subsets/)|C++|Medium|1727|
-|55|[Jump Game](https://leetcode.com/problems/jump-game/)|C++|Medium|1716|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[C++](./Top_100_Liked_Questions/LowestCommonAncestorofaBinaryTree.cpp)|Medium|1731|
+|78|[Subsets](https://leetcode.com/problems/subsets/)|[C++](./Top_100_Liked_Questions/Subsets.cpp)|Medium|1727|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](./Top_100_Liked_Questions/JumpGame.cpp)|Medium|1716|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|C++|Easy|1714|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|C++|Hard|1690|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|C++|Easy|1664|
@@ -129,7 +129,7 @@
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|C++|Medium|1049|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|C++|Hard|1040|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|C++|Easy|1035|
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|C++|Hard|1032|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](./Top_100_Liked_Questions/JumpGameII.cpp)|Hard|1032|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|C++|Medium|1028|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|C++|Medium|1018|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|C++|Hard|1013|
@@ -185,7 +185,7 @@
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|C++|Hard|814|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|C++|Medium|813|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|C++|Easy|807|
-|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|C++|Medium|802|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[C++](./Top_100_Liked_Questions/Subsets.cpp)|Medium|802|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|C++|Medium|801|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|C++|Medium|801|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|C++|Medium|799|
