@@ -54,8 +54,8 @@
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](./Top_100_Liked_Questions/MergeTwoBinaryTrees.cpp)|Easy|1714|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./Top_100_Liked_Questions/LongestConsecutiveSequence.cpp)|Hard|1690|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[C++](./Top_100_Liked_Questions/PathSumIII.cpp)|Easy|1664|
-|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|C++|Hard|1660|
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|C++|Medium|1621|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](./Top_100_Liked_Questions/LongestValidParentheses.cpp)|Hard|1660|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./Top_100_Liked_Questions/RemoveNthNodeFromEndofList.cpp)|Medium|1621|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C++](./Top_100_Liked_Questions/MinStack.cpp)|Easy|1604|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|C++|Medium|1592|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|C++|Medium|1578|
