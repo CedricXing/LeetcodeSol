@@ -57,7 +57,7 @@
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](./Top_100_Liked_Questions/LongestValidParentheses.cpp)|Hard|1660|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./Top_100_Liked_Questions/RemoveNthNodeFromEndofList.cpp)|Medium|1621|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C++](./Top_100_Liked_Questions/MinStack.cpp)|Easy|1604|
-|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|C++|Medium|1592|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](./Top_100_Liked_Questions/NextPermutation.cpp)|Medium|1592|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|C++|Medium|1578|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|C++|Medium|1567|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|C++|Medium|1562|
