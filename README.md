@@ -27,7 +27,7 @@
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](./Top_100_Liked_Questions/MergekSortedLists.cpp)|Hard|2243|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./Top_100_Liked_Questions/FindtheDuplicateNumber.cpp)|Medium|2236|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](./Top_100_Liked_Questions/SingleNumber.cpp)|Easy|2226|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](SearchinRotatedSortedArray.cpp)|Medium|2147|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./Top_100_Liked_Questions/SearchinRotatedSortedArray.cpp)|Medium|2147|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./Top_100_Liked_Questions/ReverseLinkedList.cpp)|Easy|2119|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./Top_100_Liked_Questions/MinimumWindowSubstring.cpp)|Hard|2068|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./Top_100_Liked_Questions/MergeTwoSortedLists.cpp)|Easy|2061|
@@ -58,8 +58,8 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./Top_100_Liked_Questions/RemoveNthNodeFromEndofList.cpp)|Medium|1621|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C++](./Top_100_Liked_Questions/MinStack.cpp)|Easy|1604|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](./Top_100_Liked_Questions/NextPermutation.cpp)|Medium|1592|
-|79|[Word Search](https://leetcode.com/problems/word-search/)|C++|Medium|1578|
-|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|C++|Medium|1567|
+|79|[Word Search](https://leetcode.com/problems/word-search/)|[C++](./Top_100_Liked_Questions/WordSearch.cpp)|Medium|1578|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./Top_100_Liked_Questions/CourseSchedule.cpp)|Medium|1567|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|C++|Medium|1562|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](./Top_100_Liked_Questions/ConstructBinaryTreeFromPreorderAndInorder.cpp)|Medium|1558|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./Top_100_Liked_Questions/InvertBinaryTree.cpp)|Easy|1557|

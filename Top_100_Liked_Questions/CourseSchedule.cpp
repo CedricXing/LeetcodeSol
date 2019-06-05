@@ -10,16 +10,15 @@ public:
     * Detecting the cycle in a graph.
     * Using topology sort
     */
-    bool canFinish(int numCourses, vector<pair<int, int>>& prerequisites) {
+    bool canFinish(int numCourses,vector<vector<int>>& prerequisites) {
         stack<int> st;
-        int *arr = new int[numCourses];
-        memset(arr,0,numCourses*4);
+        vector<int> arr(numCourses,0);
         unordered_map<int,vector<int>> map;
         for(auto p : prerequisites){
-            arr[p.second]++;
-            if(map.count(p.first)==0)
-                map[p.first] = vector<int>();
-            map[p.first].push_back(p.second);
+            arr[p[0]]++;
+            if(map.count(p[1])==0)
+                map[p[1]] = vector<int>();
+            map[p[1]].push_back(p[0]);
         }
         for(int i = 0;i < numCourses;++i){
             if(arr[i]==0)
@@ -38,4 +37,9 @@ public:
             return false;
         else return true;
     }
+
+    /* Sol 1
+	* It's equivalent to finding if a cycle exists in a directed graph.
+    * DFS or BFS can both detect if a cycle exists.
+	*/
 };
