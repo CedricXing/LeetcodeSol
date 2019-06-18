@@ -60,10 +60,10 @@
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](./Top_100_Liked_Questions/NextPermutation.cpp)|Medium|1592|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[C++](./Top_100_Liked_Questions/WordSearch.cpp)|Medium|1578|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./Top_100_Liked_Questions/CourseSchedule.cpp)|Medium|1567|
-|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|C++|Medium|1562|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](./Top_100_Liked_Questions/UniqueBinarySearchTrees.cpp)|Medium|1562|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](./Top_100_Liked_Questions/ConstructBinaryTreeFromPreorderAndInorder.cpp)|Medium|1558|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./Top_100_Liked_Questions/InvertBinaryTree.cpp)|Easy|1557|
-|322|[Coin Change](https://leetcode.com/problems/coin-change/)|C++|Medium|1534|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](./Top_100_Liked_Questions/CoinChange.cpp)|Medium|1534|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|C++|Hard|1509|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|C++|Easy|1506|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|C++|Medium|1499|
