@@ -64,8 +64,8 @@
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](./Top_100_Liked_Questions/ConstructBinaryTreeFromPreorderAndInorder.cpp)|Medium|1558|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./Top_100_Liked_Questions/InvertBinaryTree.cpp)|Easy|1557|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](./Top_100_Liked_Questions/CoinChange.cpp)|Medium|1534|
-|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|C++|Hard|1509|
-|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|C++|Easy|1506|
+|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[C++](./Top_100_Liked_Questions/SlidingWindowMaximum.cpp)|Hard|1509|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./Top_100_Liked_Questions/FindAllNumbersDisappearedinanArray.cpp)|Easy|1506|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|C++|Medium|1499|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|C++|Easy|1497|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./Top_100_Liked_Questions/MajorityElement.cpp)|Easy|1488|
