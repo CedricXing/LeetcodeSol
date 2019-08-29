@@ -66,8 +66,8 @@
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](./Top_100_Liked_Questions/CoinChange.cpp)|Medium|1534|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[C++](./Top_100_Liked_Questions/SlidingWindowMaximum.cpp)|Hard|1509|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./Top_100_Liked_Questions/FindAllNumbersDisappearedinanArray.cpp)|Easy|1506|
-|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|C++|Medium|1499|
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|C++|Easy|1497|
+|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[C++](./Top_100_Liked_Questions/TaskScheduler.cpp)|Medium|1499|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./Top_100_Liked_Questions/PalindromeLinkedList.cpp)|Easy|1497|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./Top_100_Liked_Questions/MajorityElement.cpp)|Easy|1488|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|C++|Hard|1482|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|C++|Medium|1472|
@@ -326,7 +326,7 @@
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|C++|Easy|522|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|C++|Hard|521|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|C++|Easy|520|
-|343|[Integer Break](https://leetcode.com/problems/integer-break/)|C++|Medium|520|
+|343|[Integer Break](https://leetcode.com/problems/integer-break/)|[C++](./Top_100_Liked_Questions/IntegerBreak.cpp)|Medium|520|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|C++|Hard|517|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|C++|Hard|517|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|C++|Medium|514|
