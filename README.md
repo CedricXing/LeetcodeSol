@@ -78,7 +78,7 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|C++|Easy|1421|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|C++|Medium|1415|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./Top_100_Liked_Questions/LinkedListCycle.cpp)|Easy|1413|
-|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|C++|Medium|1408|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./Top_100_Liked_Questions/FindFirstandLastPositionofElementinSortedArray.cpp)|Medium|1408|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./Top_100_Liked_Questions/UniquePaths.cpp)|Medium|1405|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|C++|Hard|1396|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|C++|Medium|1395|
@@ -206,7 +206,7 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|C++|Easy|762|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|C++|Easy|751|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|C++|Medium|751|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|C++|Medium|748|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](./Top_100_Liked_Questions/CombinationSumII.cpp)|Medium|748|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|C++|Medium|746|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|C++|Medium|744|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|C++|Medium|742|
@@ -222,7 +222,7 @@
 |77|[Combinations](https://leetcode.com/problems/combinations/)|C++|Medium|707|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|C++|Medium|706|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|C++|Medium|706|
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|C++|Easy|703|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./Top_100_Liked_Questions/RemoveDuplicatesfromSortedArray.cpp)|Easy|703|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|C++|Easy|700|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|C++|Hard|698|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|C++|Easy|698|
