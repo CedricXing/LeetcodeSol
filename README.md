@@ -79,7 +79,7 @@
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|C++|Medium|1415|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./Top_100_Liked_Questions/LinkedListCycle.cpp)|Easy|1413|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|C++|Medium|1408|
-|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|C++|Medium|1405|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./Top_100_Liked_Questions/UniquePaths.cpp)|Medium|1405|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|C++|Hard|1396|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|C++|Medium|1395|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|C++|Medium|1374|
@@ -142,7 +142,7 @@
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|C++|Medium|988|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|C++|Easy|985|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|C++|Hard|983|
-|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|C++|Medium|976|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[C++](./Top_100_Liked_Questions/3SumClosest.cpp)|Medium|976|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|C++|Easy|974|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|C++|Medium|969|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|C++|Medium|967|
