@@ -4,25 +4,35 @@ using namespace std;
 class Solution {
 public:
 	/* Sol 0
-	* The trick usually used in searching the range
+	* Use the C++ STL lower_bound and upper_bound function to solve the problem.
 	*/
     vector<int> searchRange(vector<int>& nums, int target) {
         vector<int> result(2,-1);
         if(nums.size() == 0) return result;
-        int left = 0, right = nums.size() - 1;
+        int lb = lower_bound(nums,target), ub = upper_bound(nums,target) - 1;
+        if(lb == nums.size() or nums[lb] != target) return result;
+        result[0] = lb;
+        result[1] = ub;
+        return result;
+    }
+
+    int lower_bound(vector<int> &nums,int target){
+        int left = 0, right = nums.size();
         while(left < right){
             int middle = left + (right - left) / 2;
             if(nums[middle] < target) left = middle + 1;
             else right = middle;
         }
-        if(nums[left] == target) result[0] = left;
-        right = nums.size() - 1;
+        return left;
+    }
+
+    int upper_bound(vector<int> &nums,int target){
+        int left = 0, right = nums.size();
         while(left < right){
-            int middle = left + (right - left) / 2 + 1; // here must +1 when searching the right range, or the pointer middle may not move 
-            if(nums[middle] > target) right = middle - 1;
-            else left = middle;
+            int middle = left + (right - left) / 2;
+            if(nums[middle] <= target) left = middle + 1;
+            else right = middle;
         }
-        if(nums[right] == target) result[1] = right;
-        return result;
+        return left;
     }
 };

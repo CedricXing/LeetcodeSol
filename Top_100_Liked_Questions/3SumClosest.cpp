@@ -23,8 +23,8 @@ public:
                 else if(tempDelta > 0) ++left;
                 else --right;
             }
-            result = target - minDelta;
         }
+        result = target - minDelta;
         return result;
     }
 };

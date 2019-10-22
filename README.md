@@ -70,7 +70,7 @@
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./Top_100_Liked_Questions/PalindromeLinkedList.cpp)|Easy|1497|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./Top_100_Liked_Questions/MajorityElement.cpp)|Easy|1488|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|C++|Hard|1482|
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|C++|Medium|1472|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./Top_100_Liked_Questions/SortColors.cpp)|Medium|1472|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|C++|Medium|1471|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|C++|Medium|1461|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|C++|Easy|1445|
@@ -105,7 +105,7 @@
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|C++|Medium|1241|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|C++|Medium|1236|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|C++|Easy|1235|
-|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|C++|Medium|1228|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](./Top_100_Liked_Questions/MinimumPathSum.cpp)|Medium|1228|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|C++|Hard|1222|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|C++|Medium|1208|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./Top_100_Liked_Questions/MaximumDepthofBinaryTree.cpp)|Easy|1208|
@@ -153,7 +153,7 @@
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|C++|Easy|941|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|C++|Hard|939|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|C++|Medium|936|
-|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|C++|Medium|934|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](./Top_100_Liked_Questions/SetMatrixZeros.cpp)|Medium|934|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|C++|Easy|933|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|C++|Medium|923|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|C++|Medium|919|
@@ -184,7 +184,7 @@
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|C++|Hard|814|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|C++|Hard|814|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|C++|Medium|813|
-|66|[Plus One](https://leetcode.com/problems/plus-one/)|C++|Easy|807|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](./Top_100_Liked_Questions/PlusOne.cpp)|Easy|807|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[C++](./Top_100_Liked_Questions/Subsets.cpp)|Medium|802|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|C++|Medium|801|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|C++|Medium|801|
@@ -194,7 +194,7 @@
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|C++|Medium|790|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|C++|Medium|788|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|C++|Medium|787|
-|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|C++|Medium|787|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[C++](./Top_100_Liked_Questions/UniquePathsII.cpp)|Medium|787|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|C++|Medium|784|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|C++|Medium|781|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|C++|Medium|779|
@@ -207,9 +207,9 @@
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|C++|Easy|751|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|C++|Medium|751|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](./Top_100_Liked_Questions/CombinationSumII.cpp)|Medium|748|
-|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|C++|Medium|746|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](./Top_100_Liked_Questions/Searcha2DMatrix.cpp)|Medium|746|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|C++|Medium|744|
-|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|C++|Medium|742|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./Top_100_Liked_Questions/RemoveDuplicatesfromSortedArrayII.cpp)|Medium|742|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|C++|Medium|740|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|C++|Medium|740|
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|C++|Medium|739|
