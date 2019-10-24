@@ -8,6 +8,7 @@ public:
     * where leftMost[i] represents the minimum position p with heights[p]>=heights[i],
     * rightMost[i] represents the maximum position q with heights[q] >= heights[i].
     * So if we can compute the arrays leftMost and rightMost in O(n),the total time complexity will be O(n). 
+    * The p = leftMost[p] - 1 statement ensures that each element before i will be visited at most once. So it's O(n).
 	*/
     int largestRectangleArea(vector<int>& heights) {
         if(heights.empty()) return 0;

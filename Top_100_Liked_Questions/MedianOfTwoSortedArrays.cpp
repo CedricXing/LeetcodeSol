@@ -4,45 +4,34 @@ using namespace std;
 
 class Solution {
 public:
+	/* Sol 0
+	* The problem can be solved in O(min(logm,logn)). 
+    * Refer to https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/2481/Share-my-O(log(min(mn)))-solution-with-explanation
+    * for more explanations.
+	*/
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int m = nums1.size(),n = nums2.size();
-        if((m + n) % 2 == 1)
-            return findKth(nums1,0,m-1,nums2,0,n-1,(m+n)/2);
-        else{
-            double a = findKth(nums1,0,m-1,nums2,0,n-1,(m+n)/2-1);
-            double b = findKth(nums1,0,m-1,nums2,0,n-1,(m+n)/2);
-            return (a+b)/2;
+        if(nums1.size() > nums2.size()) return findMedianSortedArrays(nums2,nums1);
+        int left = 0,right = nums1.size(), mid = (nums1.size()+nums2.size()+1) / 2;
+        int current_i, current_j;
+        double result1, result2;
+        while(left <= right){
+            current_i = left + (right - left) / 2;
+            current_j = mid - current_i;
+            if(current_i < nums1.size() && current_j > 0 && nums2[current_j-1] > nums1[current_i])
+                left = current_i + 1;
+            else if(current_i > 0 && current_j < nums2.size() && nums2[current_j] < nums1[current_i-1])
+                right = current_i - 1;
+            else{
+                if(current_i == 0) result1 = nums2[current_j - 1];
+                else if(current_j == 0) result1 = nums1[current_i - 1];
+                else result1 = max(nums1[current_i - 1],nums2[current_j - 1]);
+                break;
+            }
         }
-    }
-
-    double findKth(vector<int>& nums1,int start1,int end1,vector<int>& nums2,int start2,int end2,int k){
-        if(start1>end1) return nums2[start2+k];
-        else if(start2>end2)    return nums1[start1+k];
-        int middle1 = (start1+end1)/2,middle2=(start2+end2)/2;
-        if((end1-start1)%2==1)  middle1+=1;
-        if((end2-start2)%2==1)  middle2+=1;
-        if(middle1+middle2<k){
-            if(nums1[middle1]>nums2[middle2])
-                return findKth(nums1,start1,end1,nums2,middle2+1,end2,k-middle2-1);
-            else
-                return findKth(nums1,middle1+1,end1,nums2,start2,end2,k-middle1-1);
-        }
-        else{
-            if(nums1[middle1]>nums2[middle2])
-                return  findKth(nums1,start1,middle1-1,nums2,start2,end2,k);
-            else
-                return  findKth(nums1,start1,end1,nums2,start2,middle2-1,k); 
-        }
+        if((nums1.size() + nums2.size()) % 2 != 0) return result1;
+        if(current_i == nums1.size()) result2 = nums2[current_j];
+        else if(current_j == nums2.size()) result2 = nums1[current_i];
+        else result2 = min(nums1[current_i],nums2[current_j]);
+        return (result1 + result2) / 2;
     }
 };
-
-int main(){
-    vector<int> nums1;
-    vector<int> nums2;
-    nums1.push_back(1);
-    nums1.push_back(2);
-    nums2.push_back(3);
-    nums2.push_back(4);
-    Solution solution;
-    solution.findMedianSortedArrays(nums1,nums2);
-}
