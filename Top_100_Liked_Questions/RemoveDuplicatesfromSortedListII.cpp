@@ -10,8 +10,8 @@ struct ListNode {
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        ListNode *dummy = new ListNode(-1),*current = head,*first = dummy;
-        dummy->next = head;
+        ListNode dummy(-1),*current = head,*first = &dummy;
+        dummy.next = head;
         while(current != nullptr && current->next != nullptr){
             if(current->val == current->next->val){
                 int val = current->val;
@@ -26,6 +26,6 @@ public:
             }
         }
         first->next = current;
-        return dummy->next;
+        return dummy.next;
     }
 };

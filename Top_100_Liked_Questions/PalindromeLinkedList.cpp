@@ -6,6 +6,7 @@ struct ListNode {
     ListNode *next;
     ListNode(int x) : val(x), next(NULL) {}
 };
+
 class Solution {
 public:
 	/* Sol 0
