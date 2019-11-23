@@ -151,7 +151,7 @@
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|C++|Medium|943|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|C++|Hard|943|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|C++|Easy|941|
-|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|C++|Hard|939|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[C++](./Top_100_Liked_Questions/WildcardMatching.cpp)|Hard|939|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|C++|Medium|936|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](./Top_100_Liked_Questions/SetMatrixZeros.cpp)|Medium|934|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|C++|Easy|933|
@@ -267,7 +267,7 @@
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|C++|Easy|623|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|C++|Medium|623|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|C++|Hard|619|
-|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|C++|Medium|618|
+|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](./Top_100_Liked_Questions/NextGreaterElementII.cpp)|Medium|618|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|C++|Medium|617|
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|C++|Medium|609|
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|C++|Medium|609|
@@ -377,7 +377,7 @@
 |135|[Candy](https://leetcode.com/problems/candy/)|C++|Hard|443|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|C++|Medium|442|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|C++|Easy|439|
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|C++|Easy|437|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[C++](./Top_100_Liked_Questions/MiddleoftheLinkedList.cpp)|Easy|437|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|C++|Easy|435|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|C++|Hard|435|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|C++|Medium|433|
@@ -465,7 +465,7 @@
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|C++|Easy|340|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|C++|Easy|339|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|C++|Easy|339|
-|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|C++|Medium|338|
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[C++](./Top_100_Liked_Questions/LexicographicalNumbers.cpp)|Medium|338|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|C++|Medium|338|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|C++|Easy|338|
 |776|[Split BST](https://leetcode.com/problems/split-bst/)|C++|Medium|336|
@@ -492,7 +492,7 @@
 |425|[Word Squares](https://leetcode.com/problems/word-squares/)|C++|Hard|327|
 |688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|C++|Medium|326|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|C++|Easy|325|
-|725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|C++|Medium|325|
+|725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[C++](./Top_100_Liked_Questions/SplitLinkedListinParts.cpp)|Medium|325|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|C++|Medium|325|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|C++|Medium|324|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](./Top_100_Liked_Questions/InsertionSortList.cpp)|Medium|323|
@@ -530,7 +530,7 @@
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|C++|Easy|291|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|C++|Hard|290|
 |727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)|C++|Hard|289|
-|430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|C++|Medium|285|
+|430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[C++](./Top_100_Liked_Questions/FlattenaMultilevelDoublyLinkedList.cpp)|Medium|285|
 |737|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)|C++|Medium|285|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|C++|Hard|284|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|C++|Medium|284|
@@ -585,7 +585,7 @@
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|C++|Medium|256|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|C++|Easy|255|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|C++|Easy|255|
-|87|[Scramble String](https://leetcode.com/problems/scramble-string/)|C++|Hard|255|
+|87|[Scramble String](https://leetcode.com/problems/scramble-string/)|[C++](./Top_100_Liked_Questions/ScrambleString.cpp)|Hard|255|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|C++|Easy|253|
 |651|[4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/)|C++|Medium|253|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|C++|Easy|252|
@@ -696,6 +696,7 @@
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|C++|Easy|192|
 |465|[Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)|C++|Hard|192|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|C++|Medium|192|
+|1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[C++](./Top_100_Liked_Questions/RemoveZeroSumConsecutiveNodesfromLinkedList.cpp)|Medium|192|
 |629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|C++|Hard|191|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|C++|Medium|191|
 |306|[Additive Number](https://leetcode.com/problems/additive-number/)|C++|Medium|190|
@@ -907,7 +908,7 @@
 |816|[Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)|C++|Medium|70|
 |957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|C++|Medium|67|
 |660|[Remove 9](https://leetcode.com/problems/remove-9/)|C++|Hard|67|
-|1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)|C++|Medium|66|
+|1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)|[C++](./Top_100_Liked_Questions/NextGreaterNodeInLinkedList.cpp)|Medium|66|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|C++|Easy|66|
 |978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|C++|Medium|65|
 |928|[Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)|C++|Hard|65|
