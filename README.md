@@ -71,7 +71,7 @@
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./Top_100_Liked_Questions/MajorityElement.cpp)|Easy|1488|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./Top_100_Liked_Questions/FirstMissingPositive.cpp)|Hard|1482|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./Top_100_Liked_Questions/SortColors.cpp)|Medium|1472|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|C++|Medium|1471|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./Top_100_Liked_Questions/GroupAnagrams.cpp)|Medium|1471|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|C++|Medium|1461|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|C++|Easy|1445|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|C++|Medium|1441|
@@ -141,7 +141,7 @@
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|C++|Medium|996|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|C++|Medium|988|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|C++|Easy|985|
-|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|C++|Hard|983|
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[C++](./Top_100_Liked_Questions/WordSearchII.cpp)|Hard|983|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[C++](./Top_100_Liked_Questions/3SumClosest.cpp)|Medium|976|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|C++|Easy|974|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|C++|Medium|969|
