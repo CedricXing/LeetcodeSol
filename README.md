@@ -80,7 +80,7 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./Top_100_Liked_Questions/LinkedListCycle.cpp)|Easy|1413|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./Top_100_Liked_Questions/FindFirstandLastPositionofElementinSortedArray.cpp)|Medium|1408|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./Top_100_Liked_Questions/UniquePaths.cpp)|Medium|1405|
-|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|C++|Hard|1396|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](./Top_100_Liked_Questions/BinaryTreeMaximumPathSum.cpp)|Hard|1396|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|C++|Medium|1395|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|C++|Medium|1374|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|C++|Medium|1372|
@@ -176,7 +176,7 @@
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|C++|Hard|846|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|C++|Medium|833|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|C++|Medium|827|
-|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|C++|Medium|823|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[C++](./Top_100_Liked_Questions/PalindromePartitioning.cpp)|Medium|823|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|C++|Medium|816|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|C++|Medium|815|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|C++|Medium|815|
@@ -256,7 +256,7 @@
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|C++|Medium|639|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|C++|Hard|639|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|C++|Medium|637|
-|174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|C++|Hard|637|
+|174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[C++](./Top_100_Liked_Questions/DungeonGame.cpp)|Hard|637|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|C++|Medium|636|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|C++|Medium|629|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|C++|Hard|626|
@@ -324,7 +324,7 @@
 |646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|C++|Medium|528|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|C++|Medium|523|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|C++|Easy|522|
-|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|C++|Hard|521|
+|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[C++](./Top_100_Liked_Questions/PalindromePartitioningII.cpp)|Hard|521|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|C++|Easy|520|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)|[C++](./Top_100_Liked_Questions/IntegerBreak.cpp)|Medium|520|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|C++|Hard|517|
