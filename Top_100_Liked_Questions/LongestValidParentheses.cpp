@@ -11,7 +11,7 @@ public:
     * record the position, you can update the maxLen whenever it comes a new pair.
 	*/
     int longestValidParentheses(string s) {
-        stack<char> st;
+        stack<int> st;
         st.push(-1);
         int maxLen = 0;
         for(int i = 0;i < s.length();++i){

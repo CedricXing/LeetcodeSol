@@ -7,6 +7,10 @@ public:
     /* Sol 0
     * The problem to find minimum or maximum substring that meets some 
     * restrictions can be solved use a map, two pointers, a counter.
+    * Explaination:
+    * 1. Use two pointers : left and right to represent a window;
+    * 2. move the right pointer to find a valid window;
+    * 3. move the left pointer to find a smaller window.
     */
     string minWindow(string s, string t) {
         vector<int> map(128,0);

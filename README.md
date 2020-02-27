@@ -130,7 +130,7 @@
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[C++](./Top_100_Liked_Questions/ReverseNodesink-Group.cpp)|Hard|1040|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](./Top_100_Liked_Questions/ConvertSortedArraytoBinarySearchTree.cpp)|Easy|1035|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](./Top_100_Liked_Questions/JumpGameII.cpp)|Hard|1032|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|C++|Medium|1028|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](./Top_100_Liked_Questions/KthSmallestElementinaBST.cpp)|Medium|1028|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|C++|Medium|1018|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|C++|Hard|1013|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|C++|Medium|1013|
@@ -953,3 +953,4 @@
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/)|C++|Medium|24|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|C++|Easy|22|
 |972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/)|C++|Hard|16|
+|1358|[Numbers of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|[C++](./Top_100_Liked_Questions/NumbersofSubstringsContainingAllThreeCharacters.cpp)|Medium|108|

@@ -15,7 +15,7 @@ public:
 	* The key point is that one should not only compare a node to its leftnode or rightnode.
     * We must ensure a node has the maximum value in all its left tree and has the minimum value in all its right tree.
     * We can store the current [min,max]. BUT it's buggy to initialize min with INT_MIN or initialize max with INT_MAX
-    * We solve it use in-order traversal.
+    * We solve it using in-order traversal.
     * Iterative way using a stack
 	*/
     bool isValidBST(TreeNode* root) {

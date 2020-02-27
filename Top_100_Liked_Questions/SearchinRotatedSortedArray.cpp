@@ -22,4 +22,26 @@ public:
         }        
         return -1;
     }
+
+    /* Sol 1
+	* Use O(logn) find the pivot first. Then just do the normal binary search.
+	*/
+    int search1(vector<int>& nums, int target) {
+        int left = 0,right = nums.size() - 1;
+        while(left < right){
+            int middle = left + (right - left) / 2;
+            if(nums[middle] > nums[right]) left = middle + 1;
+            else right = middle;
+        }
+        int pivot = left;
+        left = 0,right = nums.size() - 1;
+        while(left <= right){
+            int mid = left + (right - left) / 2;
+            int real_mid = (mid + pivot) % nums.size();
+            if(nums[real_mid] == target) return real_mid;
+            else if(nums[real_mid] < target) left = mid + 1;
+            else right = mid - 1;
+        }
+        return -1;
+    }
 };
