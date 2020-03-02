@@ -131,7 +131,7 @@
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](./Top_100_Liked_Questions/ConvertSortedArraytoBinarySearchTree.cpp)|Easy|1035|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](./Top_100_Liked_Questions/JumpGameII.cpp)|Hard|1032|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](./Top_100_Liked_Questions/KthSmallestElementinaBST.cpp)|Medium|1028|
-|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|C++|Medium|1018|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[C++](./Top_100_Liked_Questions/MaxAreaofIsland.cpp)|Medium|1018|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|C++|Hard|1013|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|C++|Medium|1013|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./Top_100_Liked_Questions/SwapNodesinPairs.cpp)|Medium|1008|
@@ -169,7 +169,7 @@
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|C++|Medium|872|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|C++|Easy|872|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|C++|Medium|871|
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|C++|Hard|867|
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](./Top_100_Liked_Questions/LongestIncreasingPathinaMatrix.cpp)|Hard|867|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|C++|Hard|860|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|C++|Medium|856|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|C++|Easy|853|
@@ -342,7 +342,7 @@
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|C++|Medium|493|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|C++|Medium|493|
 |305|[Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|C++|Hard|492|
-|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|C++|Easy|491|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](./Top_100_Liked_Questions/ImplementQueueusingStacks.cpp)|Easy|491|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|C++|Easy|489|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|C++|Easy|488|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|C++|Easy|487|
@@ -418,7 +418,7 @@
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|C++|Medium|386|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)|C++|Hard|386|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|C++|Easy|382|
-|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|C++|Medium|382|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[C++](./Top_100_Liked_Questions/SimplifyPath.cpp)|Medium|382|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|C++|Easy|379|
 |317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|C++|Hard|379|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|C++|Easy|378|
@@ -953,4 +953,4 @@
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/)|C++|Medium|24|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|C++|Easy|22|
 |972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/)|C++|Hard|16|
-|1358|[Numbers of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|[C++](./Top_100_Liked_Questions/NumbersofSubstringsContainingAllThreeCharacters.cpp)|Medium|108|
+|1358|[Numbers of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|[C++](./Top_100_Liked_Questions/NumberofSubstringsContainingAllThreeCharacters.cpp)|Medium|108|

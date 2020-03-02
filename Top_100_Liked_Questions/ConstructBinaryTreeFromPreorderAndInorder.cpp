@@ -1,4 +1,5 @@
 #include <vector>
+#include <stack>
 using namespace std;
 
 struct TreeNode {
@@ -44,6 +45,30 @@ public:
     }
 
     /* Sol 1
-	* Using cache, for example, a map to speed up when searching for the position of current root.
+    * Iterative solution.
+    * 对于当前的根，如果对应的inorder中的值不等于它，说明都还是这个根的坐半子树，则先处理左子树；等到相等了，则再处理右子树。
 	*/
+    TreeNode* buildTree1(vector<int>& preorder, vector<int>& inorder) {
+        if(preorder.size() == 0) return nullptr;
+        stack<TreeNode*> st;
+        int pre_inx = 0,in_inx = 0;
+        TreeNode *result = new TreeNode(preorder[pre_inx]);
+        st.push(result);
+        while(!st.empty()){
+            TreeNode *root = st.top();
+            if(root->val == inorder[in_inx]){ // 当前这个根的左半部分都已经处理完毕
+                st.pop();
+                ++in_inx;
+                if(in_inx == inorder.size()) break;
+                if(!st.empty() && st.top()->val == inorder[in_inx]) continue;
+                root->right = new TreeNode(preorder[++pre_inx]);
+                st.push(root->right);
+            }
+            else{ // 开始处理这个根的左半部分
+                root->left = new TreeNode(preorder[++pre_inx]);
+                st.push(root->left);
+            }
+        }
+        return result;
+    }
 };
