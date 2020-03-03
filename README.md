@@ -72,17 +72,17 @@
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./Top_100_Liked_Questions/FirstMissingPositive.cpp)|Hard|1482|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./Top_100_Liked_Questions/SortColors.cpp)|Medium|1472|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./Top_100_Liked_Questions/GroupAnagrams.cpp)|Medium|1471|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|C++|Medium|1461|
-|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|C++|Easy|1445|
-|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|C++|Medium|1441|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./Top_100_Liked_Questions/BinaryTreeInorderTraversal.cpp)|Medium|1461|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./Top_100_Liked_Questions/FindAllAnagramsinaString.cpp)|Easy|1445|
+|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[C++](./Top_100_Liked_Questions/QueueReconstructionbyHeight.cpp)|Medium|1441|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./Top_100_Liked_Questions/RemoveDuplicatesfromSortedArray.cpp)|Easy|1421|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](./Top_100_Liked_Questions/CopyListwithRandomPointer.cpp)|Medium|1415|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./Top_100_Liked_Questions/LinkedListCycle.cpp)|Easy|1413|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./Top_100_Liked_Questions/FindFirstandLastPositionofElementinSortedArray.cpp)|Medium|1408|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./Top_100_Liked_Questions/UniquePaths.cpp)|Medium|1405|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](./Top_100_Liked_Questions/BinaryTreeMaximumPathSum.cpp)|Hard|1396|
-|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|C++|Medium|1395|
-|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|C++|Medium|1374|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./Top_100_Liked_Questions/RotateImage.cpp)|Medium|1395|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](./Top_100_Liked_Questions/Searcha2DMatrixII.cpp)|Medium|1374|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|C++|Medium|1372|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|C++|Medium|1362|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|C++|Hard|1344|
