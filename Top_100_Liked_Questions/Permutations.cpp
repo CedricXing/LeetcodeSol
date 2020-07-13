@@ -7,28 +7,29 @@ public:
 	* This kind of problems can be solved using a similar recursive template.
     * Like Subset, Subset II, CombinationSum
 	*/
+    class Solution {
+public:
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>> result;
+        vector<int> current,visited(nums.size(),0);
         if(nums.empty()) return result;
-        sort(nums.begin(),nums.end());
-        vector<int> temp;
-        permute(nums,result,temp);
-        return result;        
+        helper(nums,result,current,visited);
+        return result;
     }
-
-    void permute(vector<int> &nums,vector<vector<int>> &result,vector<int> &temp){
-        if(temp.size() == nums.size()){
-            result.push_back(temp);
+    
+    void helper(vector<int> &nums,vector<vector<int>> &result,vector<int> &current,vector<int> &visited){
+        if(current.size() == nums.size()){
+            result.push_back(current);
             return;
         }
+        
         for(int i = 0;i < nums.size();++i){
-            if(nums[i] != INT_MIN){ // Here use INT_MIN to check whether nums[i] is in temp
-                temp.push_back(nums[i]);// already(constant time). Basically, it's ok.
-                nums[i] = INT_MIN;
-                permute(nums,result,temp);
-                nums[i] = temp.back();
-                temp.erase(temp.end()-1);
-            }
+            if(visited[i]) continue;
+            visited[i] = 1;
+            current.push_back(nums[i]);
+            helper(nums,result,current,visited);
+            visited[i] = 0;
+            current.pop_back();
         }
     }
 };
