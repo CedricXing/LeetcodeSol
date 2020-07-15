@@ -3,20 +3,13 @@ using namespace std;
 
 class Solution {
 public:
-	/* Sol 0
-	* Sort <intervals> first according to the start of each interval.
-	*/
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         vector<vector<int>> result;
-        if(intervals.empty()) return result;
-        auto cmp = [](const vector<int>& vec1,const vector<int>& vec2){
-            return vec1[0] < vec2[0];// Pay attention to c++ 11's strict weak ordering,cannot make it <=
-        };
+        auto cmp = [](vector<int> &v1,vector<int> &v2){return v1[0]<v2[0];};
         sort(intervals.begin(),intervals.end(),cmp);
-        result.push_back(intervals[0]);
-        for(int i = 1;i < intervals.size();++i){
-            if(result.back()[1] >= intervals[i][0]) result.back()[1] = max(intervals[i][1],result.back()[1]);
-            else result.push_back(intervals[i]);
+        for(auto &v : intervals){
+            if(result.empty() || result[result.size() - 1][1] < v[0]) result.push_back(v);
+            else result[result.size() - 1][1] = max(v[1],result[result.size() - 1][1]);
         }
         return result;
     }
